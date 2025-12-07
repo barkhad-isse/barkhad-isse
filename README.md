@@ -1,26 +1,7 @@
 # About Me:
 Hi, I’m **Barkhad Isse**
 
-I’m a 3rd-year Cybersecurity student with a strong interest in system security, threat analysis, and secure development practices.
-
-## Cybersecurity Focus
-- Experience in penetration testing, vulnerability assessment, and report writing  
-- Familiar with SOC operations, threat monitoring, and incident response  
-- Interested in both offensive and defensive security  
-
-## Cloud & DevSecOps
-- Actively learning Microsoft Azure and cloud security concepts  
-- Exploring identity management, cloud governance, and secure cloud architecture  
-
-## Automation & Coding
-- Building security automation tools and utilities using Python  
-- Creating scripts to streamline testing, analysis, and investigative workflows  
-- Enjoy combining programming with security problem-solving  
-
-## Current Goals
-- Developing deeper cloud security expertise  
-- Advancing Python automation skills  
-- Preparing for certifications and real-world cybersecurity roles  
+I’m a 3rd-year Cybersecurity student with a strong interest in Cloud technology and a curiosity for how things work behind the scenes in modern infrastructure.
 
 ## Contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Barkhadisse16@hotmail.com)
