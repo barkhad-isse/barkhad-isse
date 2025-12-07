@@ -1,7 +1,7 @@
 # About Me:
 Hi, I’m **Barkhad Isse**
 
-I’m a 3rd-year Cybersecurity student with a strong interest in Cloud technology and a curiosity for how things work behind the scenes in modern infrastructure.
+I’m a 3rd-year Cybersecurity student with a strong interest in cloud technology and cybersecurity, and I enjoy exploring how they work together to support modern systems.
 
 ## Contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Barkhadisse16@hotmail.com)
